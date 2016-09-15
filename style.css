@@ -1,6 +1,6 @@
 body {
   font-family: 'Work Sans', sans-serif;
-  font-size: 100%;
+  font-size: 150%;
 }
 
 /* core element */
@@ -22,7 +22,7 @@ body {
 .bottom {
     display:inline-block;
     width:80%;
-    margin:20px 0 0 0;
+    margin:10% 0 0 0;
     font-size: 100%;
     font-weight: 200;
 }
@@ -31,7 +31,7 @@ body {
 a:link, a:visited {
   display: inline-block; 
   padding: 10px 20px 10px 20px; 
-  margin:10px 0 0 0;
+  margin: 1% 0 0 0;
   background: #738CFF; 
   color: #FFFFFF; 
   border-radius: 100px 0px 100px 0px;
@@ -46,13 +46,13 @@ a:hover, a:active {
 
 /* light slogan font */
 .light-slogan {
-  font-size: 150%;
+  font-size: 125%;
   font-weight: 200;
 }
 
 /* heavy slogan font */
 .heavy-slogan {
-  font-size: 150%;
+  font-size: 125%;
   font-weight:300;
 }
 
