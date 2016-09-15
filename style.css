@@ -1,0 +1,92 @@
+body {
+  font-family: 'Work Sans', sans-serif;
+}
+
+.core {
+  height:80%;
+  width: 580px; 
+  padding: 15px 15px 15px 15px; 
+  margin: 10% auto 10% auto; 
+  display: block;
+}
+
+.top {
+    position: fixed;
+    width: 580px; 
+    display:table-cell;
+    height:50px;
+    vertical-align:top;
+    text-align:right;
+}
+
+.bottom {
+    position: relative;
+    bottom:0px;
+    right:0px;
+    width: 580px; 
+    display:table-cell;
+    height:300px;
+    vertical-align:bottom;
+    text-align: right;
+    font-size:0.8em;
+    font-weight:200;
+}
+
+.button {
+  display: block; 
+  position: relative; 
+  left:52%;
+  height: 20px; 
+  width: 250px; 
+  padding: 10px; 
+  margin:10px;
+  background: #738CFF; 
+  color: #FFFFFF; 
+  border-radius: 100px 0px 100px 100px;
+  text-align: center;
+  font-size:0.8em;
+  font-weight:600;
+}
+
+.button.hover {
+    background-color: red;
+}
+
+.light-slogan {
+  font-size: 1em;
+  font-weight: 100;
+}
+
+.heavy-slogan {
+  font-size: 1em;
+  font-weight:300;
+}
+
+.logo {
+    font-size: 1.5em;
+    font-weight:900;
+}
+
+/* unvisited link */
+a:link {
+    color: white;
+    text-decoration:none;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+    text-decoration:none;
+}
+
+/* mouse over link */
+a:hover {
+    color: white;
+    text-decoration:none;
+}
+
+/* selected link */
+a:active {
+    color: white;
+    text-decoration:none;
+}
