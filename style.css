@@ -26,6 +26,12 @@ body {
     font-weight: 200;
 }
 
+/* we highlight */
+.vpbold {
+  font-size:1em;
+  font-weight:600;
+}
+
 /* dynamic button */
 a:link, a:visited {
   display: inline-block; 
