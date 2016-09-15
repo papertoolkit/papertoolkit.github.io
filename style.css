@@ -1,19 +1,20 @@
 body {
   font-family: 'Work Sans', sans-serif;
-  font-size: 150%;
+  font-size: 100%;
 }
 
 /* core element */
 .core {
-  display: table;
-  text-align: center;
-  padding: 15% 0 0 0;
+  display: block;
+  width: 90%;
+  padding:15% 0;
+  margin:auto;
 }
 
 /*signature*/
 .top {
     display:inline-block;
-    width: 80%;
+    width: 90%;
     text-align:right;
 }
 
@@ -22,7 +23,6 @@ body {
     display:inline-block;
     width:80%;
     margin:20px 0 0 0;
-    text-align:right;
     font-size: 100%;
     font-weight: 200;
 }
