@@ -106,3 +106,42 @@ a:active {
     overflow-y: hidden;
     z-index: -1;
 }
+
+/*survey call to action" */
+
+.surv-cta-block {
+  display: block;
+  width: 75%;
+  padding:100px 15% 10% 15%;
+}
+
+.surv-cta-title {
+    font-size: 130%;
+    font-weight: 600;
+}
+
+.surv-cta-intro {
+    font-size: 75%;
+    font-weight: 300;    
+}
+
+.surv-cta-pitch {
+    font-size: 75%;
+    font-weight: 600;
+}
+
+.surv-cta-terms {
+    font-size: 60%;
+    font-weight: 300;
+}
+
+.surv-cta-header {
+    position: absolute;
+    width: 100%;
+    text-align: right;
+    top:0;
+    right:0;
+    padding: 20px;
+    z-index: -1;    
+    font-size:80%;
+}
