@@ -92,7 +92,7 @@ a:active {
 /* 404 background */
 
 .terraincognita {
-    position: absolute;
+    position: fixed;
     width: 100%;
     margin: 10%;
     overflow: hidden;
