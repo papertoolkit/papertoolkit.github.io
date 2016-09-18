@@ -96,6 +96,7 @@ a:active {
     height: 120%;
     top:0px;
     left:0px;
-    overflow:hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
     z-index: -1;
 }
