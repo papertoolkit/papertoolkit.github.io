@@ -56,9 +56,15 @@ a:hover, a:active {
   font-weight:300;
 }
 
-/* logo font */
+/* big logo font */
 .logo {
     font-size: 300%;
+    font-weight:900;
+}
+
+/* small logo font */
+.logo {
+    font-size: 125%;
     font-weight:900;
 }
 
