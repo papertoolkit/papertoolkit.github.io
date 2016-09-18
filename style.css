@@ -94,7 +94,9 @@ a:active {
 .terraincognita {
     position: absolute;
     width: 200%;
+    height: 200%;
     top:0px;
+    left:0px;
     overflow: hidden;
     z-index: -1;
 }
